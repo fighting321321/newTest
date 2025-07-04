@@ -1,0 +1,52 @@
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: pink;
+    /* font-size: 30px;
+    font-weight: 700; */
+    /* font-style: italic; */
+    /* line-height: 100px;
+    font-family: 隶书; */
+    text-align: center;
+    font: 700 30px/100px 隶书;
+}
+
+.yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    color: red;
+    font-size: 50px;
+    line-height: 200px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    width: 485px;
+    height: 100px;
+    background-color: lightblue;
+    line-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 50px;
+}
+
+div {
+    text-align: right;
+}
+
+p {
+    width: 500px;
+    height: 100px;
+    font: italic 700 20px/1.4 楷体;
+    text-indent: 2em;
+    text-decoration: overline;
+    color: rgba(123, 177, 2, 1);
+}
